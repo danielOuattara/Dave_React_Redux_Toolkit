@@ -1,0 +1,17 @@
+React Redux Toolkit Tutorial for Beginners | Learn Modern Redux
+
+(00:00) Intro
+(00:29) Welcome 
+(00:42) Prerequisite knowledge
+(01:11) Redux vs Redux Toolkit
+(01:42) Project setup
+(02:24) Install Redux Toolkit
+(02:51) Creating a Redux store
+(04:07) Providing the global store state to the app
+(05:05) Creating a Redux slice
+(08:48) Adding a slice reducer to the Redux store
+(09:39) Dispatching actions in a component
+(13:29) Checking app functionality
+(13:59) Creating more slice actions
+(15:32) Applying the new actions in the component
+(19:44) Checking the new functionality
